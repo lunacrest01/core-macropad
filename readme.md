@@ -1,8 +1,6 @@
 # core
+![e610e5d0-4aec-4e38-a7b1-5fde66b4233b](https://github.com/user-attachments/assets/5b17960f-e3ba-46ad-83c5-c6d9afb1d39d)
 
-![core](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
 
 * Keyboard Maintainer: [lunacrest](https://github.com/lunacrest01/core-macropad)
 * Hardware Supported: *The PCBs, controllers supported*
@@ -25,3 +23,14 @@ Enter the bootloader in 3 ways:
 * **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
 * **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+
+* required parts 
+1. Seeed XIAO RP2040
+2. 9x through-hole 1N4148 Diodes
+3. 8x MX-Style switches
+4. 1x EC11 Rotary encoders
+5. 8x white blank DSA keycaps
+6. 4x M2 X 10mm Hex
+7. 1x 8bit SK6812
+9. 3d printed parts
+
