@@ -1,7 +1,3 @@
-# core
-![e610e5d0-4aec-4e38-a7b1-5fde66b4233b](https://github.com/user-attachments/assets/5b17960f-e3ba-46ad-83c5-c6d9afb1d39d)
-
-
 * Keyboard Maintainer: [lunacrest](https://github.com/lunacrest01/core-macropad)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
@@ -33,4 +29,5 @@ Enter the bootloader in 3 ways:
 6. 4x M2 X 10mm Hex
 7. 1x 8bit SK6812
 9. 3d printed parts
+
 
