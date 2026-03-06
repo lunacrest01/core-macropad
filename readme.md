@@ -29,3 +29,5 @@ Idea / Approach
 	•	Send key inputs to the host using BLE HID.
 	•	Receive data for live key remapping.
 	•	Communication can be done using BLE GATT services or USB.
+
+*For the wireless version, I am currently testing features related to BLE GATT and HID services, including live key remapping. This part of the project is still under development. The wired version, however, is ready to use.*
