@@ -1,33 +1,31 @@
-* Keyboard Maintainer: [lunacrest](https://github.com/lunacrest01/core-macropad)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+Core
 
-Make example for this keyboard (after setting up your build environment):
+Core is a 3×3 macropad with an encoder and RGB underglow, built using QMK firmware. It was designed as a productivity and desk accessory tool. The current version is wired, and the goal of this project is to convert it into a wireless device.
 
-    make core:default
+⸻
 
-Flashing example for this keyboard:
+Features
+	•	9 mechanical switches
+	•	1 rotary encoder
+	•	RGB underglow lighting
 
-    make core:default:flash
+⸻
 
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+Overview
 
-## Bootloader
+Core is a 9-key macropad developed using QMK firmware. The existing version works in wired mode.
 
-Enter the bootloader in 3 ways:
+When converting it to wireless, there are mainly two firmware options available: ZMK and RMK.
+	•	ZMK – Requires reserving a key for the studio interface, and it currently does not support encoders or reactive RGB properly.
+	•	RMK – Has similar limitations, especially regarding encoder support and advanced RGB features.
 
-* **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
-* **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
-* **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+Because of these limitations, I decided to develop my own firmware and software to fully support the hardware features.
 
-* required parts 
-1. Seeed XIAO RP2040
-2. 9x through-hole 1N4148 Diodes
-3. 8x MX-Style switches
-4. 1x EC11 Rotary encoders
-5. 8x white blank DSA keycaps
-6. 4x M2 X 10mm Hex
-7. 1x 8bit SK6812
-9. 3d printed parts
+Currently, the testing is being done using the Arduino IDE, but the project will later shift to ESP-IDF for better performance and control.
 
+⸻
 
+Idea / Approach
+	•	Send key inputs to the host using BLE HID.
+	•	Receive data for live key remapping.
+	•	Communication can be done using BLE GATT services or USB.
