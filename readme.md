@@ -5,7 +5,7 @@ Core is a 3×3 macropad with an encoder and RGB underglow, built using QMK firmw
 ![adbc08ed-dc87-4d06-af57-05eb94f75345](https://github.com/user-attachments/assets/ce54abe9-e284-4a15-92bb-e9c3b203d6f2)
 
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 
 
@@ -19,12 +19,21 @@ Core is a 3×3 macropad with an encoder and RGB underglow, built using QMK firmw
 
 •	RGB underglow lighting
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 CAD
 <img width="471" height="346" alt="Screenshot 2026-03-07 071358" src="https://github.com/user-attachments/assets/1efa1d98-d4b1-44ae-88f0-c19ea5c11ca7" />
-⸻⸻⸻
+
+
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+
+
 PCB
+
+
+
 <img width="460" height="506" alt="Screenshot 2026-03-07 070919" src="https://github.com/user-attachments/assets/be97630f-1f5b-4d9a-94c9-d7b0871d4ceb" />
 <img width="755" height="779" alt="wireless pcb" src="https://github.com/user-attachments/assets/58c3e1c0-25c1-428b-9a10-9f4379f4854b" />
 
