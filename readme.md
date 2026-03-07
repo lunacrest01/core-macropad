@@ -12,6 +12,8 @@ Core is a 3×3 macropad with an encoder and RGB underglow, built using QMK firmw
 Features
 
 •	9 mechanical switches
+
+
 •	1 rotary encoder
 •	RGB underglow lighting
 
