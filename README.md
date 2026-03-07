@@ -63,5 +63,14 @@ Idea / Approach
     •	Send key inputs to the host using BLE HID
 	•	Receive data for live key remapping
 	•	Communication can be done using BLE GATT services or USB
+	
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-*I am currently testing features related to BLE GATT and HID services, including live key remapping. This part of the project is still under development*
+*HOW TO USE*
+
+Enter Flash Mode: Connect your ESP32-S3 to your computer. Press and hold the BOOT button, then press and release the RESET button. Finally, release the BOOT button. The device is now ready to receive new firmware.
+
+Select Board in Arduino IDE: Open the Arduino IDE. Go to Tools > Board > Board Manager, search for and install the ESP32 platform if you haven't already. Then, navigate to Tools > Board > ESP32 Arduino and select the "ESP32S3 Dev Module" .
+
+Customize Your Layout: To modify the key functions, open the keymap.cpp file in the Arduino IDE. Edit the keymap array to assign the desired keystrokes or actions to each key and encoder. Upload the sketch to your device.
+
