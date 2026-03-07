@@ -1,6 +1,6 @@
 Core
 
-Core is a 3×3 macropad with an encoder and RGB underglow, built using QMK firmware. It was designed as a productivity and desk accessory tool. The current version is wired, and the goal of this project is to convert it into a wireless device.
+Core-W is a wireless 3×3 macropad with one rotary encoder and RGB underglow support. It runs custom firmware and software on an ESP32-S3 module with BLE HID and BLE GATT support.
 
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
