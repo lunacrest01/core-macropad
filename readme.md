@@ -2,12 +2,15 @@ Core
 
 Core is a 3×3 macropad with an encoder and RGB underglow, built using QMK firmware. It was designed as a productivity and desk accessory tool. The current version is wired, and the goal of this project is to convert it into a wireless device.
 
+
+![Uploading adbc08ed-dc87-4d06-af57-05eb94f75345.jpg…]()
+
 ⸻
 
 Features
-	•	9 mechanical switches
-	•	1 rotary encoder
-	•	RGB underglow lighting
+•	9 mechanical switches
+•	1 rotary encoder
+•	RGB underglow lighting
 
 ⸻
 
