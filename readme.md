@@ -42,7 +42,7 @@ PCB
 
 
 
-Overview
+*OVERVIEW*
 
 Core is a 9-key macropad developed using QMK firmware. The existing version works in wired mode.
 
@@ -54,7 +54,8 @@ Because of these limitations, I decided to develop my own firmware and software 
 
 Currently, the testing is being done using the Arduino IDE, but the project will later shift to ESP-IDF for better performance and control.
 
-⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
 
 Idea / Approach
 	•	Send key inputs to the host using BLE HID.
