@@ -9,7 +9,7 @@ Core is a 3×3 macropad with an encoder and RGB underglow, built using QMK firmw
 
 
 
-Features
+*FEATURES*
 
 •	9 mechanical switches
 
