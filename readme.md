@@ -38,7 +38,10 @@ PCB
 <img width="460" height="506" alt="Screenshot 2026-03-07 070919" src="https://github.com/user-attachments/assets/be97630f-1f5b-4d9a-94c9-d7b0871d4ceb" />
 <img width="755" height="779" alt="wireless pcb" src="https://github.com/user-attachments/assets/58c3e1c0-25c1-428b-9a10-9f4379f4854b" />
 
-⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+
+
 Overview
 
 Core is a 9-key macropad developed using QMK firmware. The existing version works in wired mode.
