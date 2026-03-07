@@ -15,6 +15,8 @@ Features
 
 
 •	1 rotary encoder
+
+
 •	RGB underglow lighting
 
 ⸻⸻⸻
