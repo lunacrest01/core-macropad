@@ -35,6 +35,8 @@ Core-W is a wireless 3×3 macropad with one rotary encoder and RGB underglow sup
 
 PCB
 
+The PCB manages the switch and encoder matrix, controls the RGB features, and handles battery charging.
+
 
 
 <img width="460" height="506" alt="Screenshot 2026-03-07 070919" src="https://github.com/user-attachments/assets/be97630f-1f5b-4d9a-94c9-d7b0871d4ceb" />
@@ -42,6 +44,15 @@ PCB
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
+*HANDWIRING*
+
+The columns of the switches need to be hand-wired, while the encoder and the switch rows will be connected individually on the PCB.
+
+
+
+<img width="182" height="182" alt="Screenshot 2026-03-08 155058" src="https://github.com/user-attachments/assets/19f2bef1-767e-48ed-8256-0e27bc869336" />
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 
 *OVERVIEW*
