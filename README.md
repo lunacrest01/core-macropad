@@ -42,6 +42,7 @@ The PCB manages the switch and encoder matrix, controls the RGB features, and ha
 
 <img width="460" height="506" alt="Screenshot 2026-03-07 070919" src="https://github.com/user-attachments/assets/be97630f-1f5b-4d9a-94c9-d7b0871d4ceb" />
 <img width="755" height="779" alt="wireless pcb" src="https://github.com/user-attachments/assets/58c3e1c0-25c1-428b-9a10-9f4379f4854b" />
+<img width="559" height="540" alt="Screenshot 2026-03-08 202248" src="https://github.com/user-attachments/assets/924277f1-cdbb-4452-9277-122910433658" />
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
