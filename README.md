@@ -27,6 +27,7 @@ Core-W is a wireless 3×3 macropad with one rotary encoder and RGB underglow sup
 
 
 <img width="471" height="346" alt="Screenshot 2026-03-07 071358" src="https://github.com/user-attachments/assets/1efa1d98-d4b1-44ae-88f0-c19ea5c11ca7" />
+<img width="326" height="309" alt="Screenshot 2026-03-08 160731" src="https://github.com/user-attachments/assets/bbd8ea77-3ad3-4df8-a067-f58c97a02a4d" />
 
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
