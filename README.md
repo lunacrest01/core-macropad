@@ -63,12 +63,19 @@ B → GPIO12
 
 Matrix (Keypad)
 Rows:
+
 Row 1 → GPIO1
+
 Row 2 → GPIO2
+
 Row 3 → GPIO3
+
 Columns:
+
 Col 1 → GPIO7
+
 Col 2 → GPIO8
+
 Col 3 → GPIO9
 
 RGB
