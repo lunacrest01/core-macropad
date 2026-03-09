@@ -53,15 +53,24 @@ The columns of the switches need to be hand-wired, while the encoder and the swi
 
 
 <img width="182" height="182" alt="Screenshot 2026-03-08 155058" src="https://github.com/user-attachments/assets/19f2bef1-767e-48ed-8256-0e27bc869336" />
+Wiring Guide
 
-wiring  guide 
- 
-encoder                matrix                 RGB          
-A-gpio10      row         | col             D1-gpio4
-b-gpio12      rows1-gpio1 | col1-gpi07
-              row 2-gpio2 | col2-gpio8
-              row 3-gpio3 | col3-gpio9
+Encoder
+A → GPIO10
+B → GPIO12
 
+Matrix (Keypad)
+Rows:
+Row 1 → GPIO1
+Row 2 → GPIO2
+Row 3 → GPIO3
+Columns:
+Col 1 → GPIO7
+Col 2 → GPIO8
+Col 3 → GPIO9
+
+RGB
+DIN (D1) → GPIO4
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
