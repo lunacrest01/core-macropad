@@ -53,6 +53,8 @@ The columns of the switches need to be hand-wired, while the encoder and the swi
 
 
 <img width="182" height="182" alt="Screenshot 2026-03-08 155058" src="https://github.com/user-attachments/assets/19f2bef1-767e-48ed-8256-0e27bc869336" />
+
+
 Wiring Guide
 
 Encoder
